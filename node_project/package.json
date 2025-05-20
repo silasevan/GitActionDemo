@@ -1,0 +1,21 @@
+{
+  "name": "git_action",
+  "version": "1.0.0",
+  "description": "Node js project on git action",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "author": "silasevan",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0",
+    "globals": "^16.1.0",
+    "supertest": "^7.1.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
